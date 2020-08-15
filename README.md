@@ -1,4 +1,4 @@
-Backend & Mobile Engineer. Php,Python, Rust & Go.
+Backend & Mobile Engineer. Php, Python, Javascript, Rust & Go.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=simphiwehlabisa&show_icons=true)
 
