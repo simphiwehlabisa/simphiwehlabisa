@@ -1,5 +1,12 @@
 Backend & Mobile Engineer. Php, Python, Javascript, Rust & Go.
 
+<!-- thropy -->
+<a href="https://arshiamidos.github.io">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=simphiwehlabisa&column=7&theme=onedark"/>
+    </p>
+</a>
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=simphiwehlabisa&show_icons=true)
 
 ### Roles :
