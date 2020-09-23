@@ -13,7 +13,6 @@
     </p>
 </a>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=simphiwehlabisa&show_icons=true)
 
 ### Roles :
 - Senior Software Engineer Dotcom Holdings South Africa
